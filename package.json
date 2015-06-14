@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool-los-angeles",
+  "version": "0.0.1",
+  "description": "NodeSchool Los Angeles Chapter",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodeschool/los-angeles"
+  },
+  "keywords": [
+    "nodeschool",
+    "node.js",
+    "los",
+    "angeles"
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/nodeschool/los-angeles/issues"
+  },
+  "homepage": "https://github.com/nodeschool/los-angeles"
+}
